@@ -1,0 +1,34 @@
+{
+    "category_id": "672dc3e3ded420fd6fde56d8", 
+    "name": "Your Product Name",
+    "capacities": [
+    {
+        "name": "128GB"
+    },
+
+    {
+        "name": "256GB"
+    },
+
+    {  
+        "name": "512GB"
+    }
+    ],
+    "colors": [
+    {  "name": "Silver"
+
+    },
+
+    {  "name": "Space Gray"
+
+    },
+
+    {  "name": "Gold"
+
+    }
+    ],
+    "description": "Your product description goes here...",
+    "price": 19.99,
+    "image": "https://your-image-url.com/image.jpg",
+    "stock": 10
+}
